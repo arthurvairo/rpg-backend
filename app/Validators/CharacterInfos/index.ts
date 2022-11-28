@@ -1,0 +1,4 @@
+import CharacterInfosCreateValidator from 'App/Validators/CharacterInfos/CharacterInfosCreateValidator'
+import CharacterInfosUpdateValidator from 'App/Validators/CharacterInfos/CharacterInfosUpdateValidator'
+
+export { CharacterInfosCreateValidator, CharacterInfosUpdateValidator }
